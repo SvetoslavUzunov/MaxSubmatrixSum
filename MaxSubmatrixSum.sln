@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSubmatrixSum", "MaxSubmatrixSum.csproj", "{727CF2F2-5296-46C8-B4DE-9CECD5A1578C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{727CF2F2-5296-46C8-B4DE-9CECD5A1578C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{727CF2F2-5296-46C8-B4DE-9CECD5A1578C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{727CF2F2-5296-46C8-B4DE-9CECD5A1578C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{727CF2F2-5296-46C8-B4DE-9CECD5A1578C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D76917A2-4769-4AA8-8DEA-0E3DC715E2BF}
+	EndGlobalSection
+EndGlobal
